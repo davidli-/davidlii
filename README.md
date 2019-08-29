@@ -1,2 +1,2 @@
 # davidlii
-davidlii's respository~(存放索引文件)
+davidlii's respository~(存放自制库的索引文件)
